@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "org.vocabsprite.postgraduate.demo",
+  "title": "考研英语演示词包",
+  "stage": "postgraduate",
+  "version": "0.1.0",
+  "language": "en",
+  "uiLocale": "zh-CN",
+  "coverage": "demo",
+  "officialStatus": "community-compatible",
+  "sourceName": "VocabSprite original demo content",
+  "sourceUrl": null,
+  "license": "CC0-1.0",
+  "attribution": null,
+  "checksum": "sha256:6e99302f1a0de092b256e20eb2d1c9756fe5550da9f672d16d56b87e9852c58f"
+}

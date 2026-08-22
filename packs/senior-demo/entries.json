@@ -1,0 +1,734 @@
+{
+  "senses": [
+    {
+      "id": "sense.cfb68fc73095dddb",
+      "identityKey": "abstract|adjective|idea-not-physical",
+      "lexemeId": "lexeme.af2da8e9a117a639",
+      "lemma": "abstract",
+      "partOfSpeech": "adjective",
+      "senseKey": "idea-not-physical",
+      "definitionZh": "抽象的",
+      "definitionEn": "existing as an idea rather than a physical object",
+      "examples": [
+        {
+          "id": "example.f1ba779408b29761",
+          "text": "The diagram makes an abstract idea easier to discuss.",
+          "translation": "图示让抽象概念更易讨论。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "an abstract idea"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "abstract · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.1e2cf28a0186a3b9",
+          "type": "visual",
+          "text": "把“abstract：抽象的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.413c8ff0500f5fe9",
+          "type": "morphology",
+          "text": "先确认词形 abstract，再连接核心义“抽象的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.53217d8a46f8a5c9",
+      "identityKey": "affect|verb|influence",
+      "lexemeId": "lexeme.a6555a624b93c981",
+      "lemma": "affect",
+      "partOfSpeech": "verb",
+      "senseKey": "influence",
+      "definitionZh": "影响",
+      "definitionEn": "to produce a change in someone or something",
+      "examples": [
+        {
+          "id": "example.0e3a3547bce3734b",
+          "text": "A short walk can affect my mood for the better.",
+          "translation": "短暂散步会让我的心情变好。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "affect a result"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "effect"
+      ],
+      "morphology": [
+        "affect · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.58d8d20316359613",
+          "type": "visual",
+          "text": "把“affect：影响”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.bb57f635a58a5223",
+          "type": "morphology",
+          "text": "先确认词形 affect，再连接核心义“影响”。",
+          "verified": true
+        },
+        {
+          "id": "cue.e8b7ee2956d70bbb",
+          "type": "contrast",
+          "text": "与 effect 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.522c1ea556d70bbb",
+      "identityKey": "approach|noun|way-of-dealing",
+      "lexemeId": "lexeme.ca37b0fba117a639",
+      "lemma": "approach",
+      "partOfSpeech": "noun",
+      "senseKey": "way-of-dealing",
+      "definitionZh": "方法；途径",
+      "definitionEn": "a way of dealing with a task or problem",
+      "examples": [
+        {
+          "id": "example.7c3af1828bc0f301",
+          "text": "Their careful approach reduced avoidable errors.",
+          "translation": "他们谨慎的方法减少了可避免的错误。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a practical approach"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "approach · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.1bc05d3438e35e59",
+          "type": "visual",
+          "text": "把“approach：方法；途径”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.1b37859efebb8889",
+          "type": "morphology",
+          "text": "先确认词形 approach，再连接核心义“方法；途径”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.95a2dd12f4e12b43",
+      "identityKey": "complex|adjective|many-connected-parts",
+      "lexemeId": "lexeme.b170a271323002eb",
+      "lemma": "complex",
+      "partOfSpeech": "adjective",
+      "senseKey": "many-connected-parts",
+      "definitionZh": "复杂的",
+      "definitionEn": "made of many connected parts and not simple",
+      "examples": [
+        {
+          "id": "example.54ec078fa4e96d19",
+          "text": "The complex pattern becomes clear when divided into steps.",
+          "translation": "复杂的模式分成步骤后变得清晰。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a complex system"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "complex · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.3cee77f1063118b1",
+          "type": "visual",
+          "text": "把“complex：复杂的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.acf40a3f08b29761",
+          "type": "morphology",
+          "text": "先确认词形 complex，再连接核心义“复杂的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.135bc3254368f651",
+      "identityKey": "contrast|noun|noticeable-difference",
+      "lexemeId": "lexeme.24e9971da117a639",
+      "lemma": "contrast",
+      "partOfSpeech": "noun",
+      "senseKey": "noticeable-difference",
+      "definitionZh": "对比；差异",
+      "definitionEn": "a clear difference between people or things",
+      "examples": [
+        {
+          "id": "example.3d561c12affdf063",
+          "text": "The contrast between the two plans is easy to see.",
+          "translation": "两个计划之间的差异很明显。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "in contrast"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "contrast · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.ca2f01d2404f5b6b",
+          "type": "visual",
+          "text": "把“contrast：对比；差异”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.50be9788f37bfbfb",
+          "type": "morphology",
+          "text": "先确认词形 contrast，再连接核心义“对比；差异”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.4681b8cb8d8a972b",
+      "identityKey": "decline|verb|become-less",
+      "lexemeId": "lexeme.5fc9c8e3323002eb",
+      "lemma": "decline",
+      "partOfSpeech": "verb",
+      "senseKey": "become-less",
+      "definitionZh": "下降；减少",
+      "definitionEn": "to become smaller, weaker, or less",
+      "examples": [
+        {
+          "id": "example.56d2acc04368f651",
+          "text": "Water use declined after the pipes were repaired.",
+          "translation": "水管修好后，用水量下降了。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "decline gradually"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "decline · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.d0254422e6cc7529",
+          "type": "visual",
+          "text": "把“decline：下降；减少”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.7d29001838e35e59",
+          "type": "morphology",
+          "text": "先确认词形 decline，再连接核心义“下降；减少”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.b43916513e80aef3",
+      "identityKey": "effect|noun|result",
+      "lexemeId": "lexeme.552cc7464b93c981",
+      "lemma": "effect",
+      "partOfSpeech": "noun",
+      "senseKey": "result",
+      "definitionZh": "结果；影响",
+      "definitionEn": "a change that happens because of an action or cause",
+      "examples": [
+        {
+          "id": "example.f7a1aa56e6cc7529",
+          "text": "The new routine had a calming effect.",
+          "translation": "新习惯产生了镇静效果。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "have an effect"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "affect"
+      ],
+      "morphology": [
+        "effect · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.66611610ab951641",
+          "type": "visual",
+          "text": "把“effect：结果；影响”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8140a2823341b7f1",
+          "type": "morphology",
+          "text": "先确认词形 effect，再连接核心义“结果；影响”。",
+          "verified": true
+        },
+        {
+          "id": "cue.411543ae9fae1cf9",
+          "type": "contrast",
+          "text": "与 affect 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.a6b0707d9fae1cf9",
+      "identityKey": "expand|verb|become-larger",
+      "lexemeId": "lexeme.ba5d6bab4b93c981",
+      "lemma": "expand",
+      "partOfSpeech": "verb",
+      "senseKey": "become-larger",
+      "definitionZh": "扩大；扩展",
+      "definitionEn": "to become or make something larger",
+      "examples": [
+        {
+          "id": "example.bc4a68ba3095dddb",
+          "text": "The team will expand the survey to two more towns.",
+          "translation": "团队会把调查扩展到另外两个城镇。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "expand a study"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "expand · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.481c64faa58a5223",
+          "type": "visual",
+          "text": "把“expand：扩大；扩展”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.ac42db20082da933",
+          "type": "morphology",
+          "text": "先确认词形 expand，再连接核心义“扩大；扩展”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.196f2fb156d70bbb",
+      "identityKey": "infer|verb|conclude-evidence",
+      "lexemeId": "lexeme.cb32b275fee44ec3",
+      "lemma": "infer",
+      "partOfSpeech": "verb",
+      "senseKey": "conclude-evidence",
+      "definitionZh": "推断",
+      "definitionEn": "to reach a conclusion from available evidence",
+      "examples": [
+        {
+          "id": "example.a8d92a368bc0f301",
+          "text": "We infer the route from the marks on the map.",
+          "translation": "我们根据地图上的标记推断路线。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "infer from evidence"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "infer · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.a454a03838e35e59",
+          "type": "visual",
+          "text": "把“infer：推断”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.6c724e9afebb8889",
+          "type": "morphology",
+          "text": "先确认词形 infer，再连接核心义“推断”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.ac9531d256d70bbb",
+      "identityKey": "maintain|verb|keep-condition",
+      "lexemeId": "lexeme.5ef7f6eaa117a639",
+      "lemma": "maintain",
+      "partOfSpeech": "verb",
+      "senseKey": "keep-condition",
+      "definitionZh": "维持",
+      "definitionEn": "to keep something at the same level or in good condition",
+      "examples": [
+        {
+          "id": "example.c3b4c97f8bc0f301",
+          "text": "Small repairs maintain the bridge safely.",
+          "translation": "小修缮让桥梁保持安全。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "maintain a balance"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "maintain · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.caafb76d38e35e59",
+          "type": "visual",
+          "text": "把“maintain：维持”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.749d1cb3febb8889",
+          "type": "morphology",
+          "text": "先确认词形 maintain，再连接核心义“维持”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.6ea461573341b7f1",
+      "identityKey": "principle|noun|guiding-rule",
+      "lexemeId": "lexeme.f1a2b305315e73d3",
+      "lemma": "principle",
+      "partOfSpeech": "noun",
+      "senseKey": "guiding-rule",
+      "definitionZh": "原则",
+      "definitionEn": "a basic rule or belief that guides action",
+      "examples": [
+        {
+          "id": "example.69e82064f4e12b43",
+          "text": "Fairness is the principle behind the decision.",
+          "translation": "公平是这一决定背后的原则。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a guiding principle"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "principal"
+      ],
+      "morphology": [
+        "principle · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.98e68214bce3734b",
+          "type": "visual",
+          "text": "把“principle：原则”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.c3583f7e3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 principle，再连接核心义“原则”。",
+          "verified": true
+        },
+        {
+          "id": "cue.fa5f16ba082da933",
+          "type": "contrast",
+          "text": "与 principal 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.cfa3edcbe6cc7529",
+      "identityKey": "reluctant|adjective|unwilling",
+      "lexemeId": "lexeme.9b51dd9b315e73d3",
+      "lemma": "reluctant",
+      "partOfSpeech": "adjective",
+      "senseKey": "unwilling",
+      "definitionZh": "不情愿的",
+      "definitionEn": "not willing or eager to do something",
+      "examples": [
+        {
+          "id": "example.15e39860404f5b6b",
+          "text": "He was reluctant to interrupt the quiet room.",
+          "translation": "他不愿打破房间里的安静。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "reluctant to act"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "reluctant · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.92308114082da933",
+          "type": "visual",
+          "text": "把“reluctant：不情愿的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.5b032e7ef4e12b43",
+          "type": "morphology",
+          "text": "先确认词形 reluctant，再连接核心义“不情愿的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.c9887dca9fae1cf9",
+      "identityKey": "scatter|verb|spread-apart",
+      "lexemeId": "lexeme.b83e8647323002eb",
+      "lemma": "scatter",
+      "partOfSpeech": "verb",
+      "senseKey": "spread-apart",
+      "definitionZh": "使散开",
+      "definitionEn": "to move or spread in different directions",
+      "examples": [
+        {
+          "id": "example.7653c3d73095dddb",
+          "text": "The breeze scattered the papers across the table.",
+          "translation": "微风把纸张吹散在桌面上。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "scatter across"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "scatter · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.bc15f6f3a58a5223",
+          "type": "visual",
+          "text": "把“scatter：使散开”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.88eacca5082da933",
+          "type": "morphology",
+          "text": "先确认词形 scatter，再连接核心义“使散开”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.774aba5f8d8a972b",
+      "identityKey": "shift|verb|move-position",
+      "lexemeId": "lexeme.f3806641fee44ec3",
+      "lemma": "shift",
+      "partOfSpeech": "verb",
+      "senseKey": "move-position",
+      "definitionZh": "移动；转移",
+      "definitionEn": "to move or change from one position to another",
+      "examples": [
+        {
+          "id": "example.8e7816cc4368f651",
+          "text": "We shifted the chairs closer to the speaker.",
+          "translation": "我们把椅子移得更靠近演讲者。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "shift attention"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "shift · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.976f735ee6cc7529",
+          "type": "visual",
+          "text": "把“shift：移动；转移”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.cc06517c38e35e59",
+          "type": "morphology",
+          "text": "先确认词形 shift，再连接核心义“移动；转移”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.53a66ff54368f651",
+      "identityKey": "stable|adjective|unlikely-to-change",
+      "lexemeId": "lexeme.3b3302f44b93c981",
+      "lemma": "stable",
+      "partOfSpeech": "adjective",
+      "senseKey": "unlikely-to-change",
+      "definitionZh": "稳定的",
+      "definitionEn": "not likely to change or fail suddenly",
+      "examples": [
+        {
+          "id": "example.5a2dbb42affdf063",
+          "text": "The temperature remained stable throughout the test.",
+          "translation": "整个测试期间温度保持稳定。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "remain stable"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "stable · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.d40ffd1e404f5b6b",
+          "type": "visual",
+          "text": "把“stable：稳定的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.84db2c3cf37bfbfb",
+          "type": "morphology",
+          "text": "先确认词形 stable，再连接核心义“稳定的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    }
+  ],
+  "aliases": {}
+}

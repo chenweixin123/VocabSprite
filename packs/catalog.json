@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "manifest": "primary-demo/manifest.json",
+      "entries": "primary-demo/entries.json"
+    },
+    {
+      "manifest": "junior-demo/manifest.json",
+      "entries": "junior-demo/entries.json"
+    },
+    {
+      "manifest": "senior-demo/manifest.json",
+      "entries": "senior-demo/entries.json"
+    },
+    {
+      "manifest": "cet4-demo/manifest.json",
+      "entries": "cet4-demo/entries.json"
+    },
+    {
+      "manifest": "cet6-demo/manifest.json",
+      "entries": "cet6-demo/entries.json"
+    },
+    {
+      "manifest": "postgraduate-demo/manifest.json",
+      "entries": "postgraduate-demo/entries.json"
+    },
+    {
+      "manifest": "custom-template/manifest.json",
+      "entries": "custom-template/entries.json"
+    }
+  ]
+}

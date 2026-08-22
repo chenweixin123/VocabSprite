@@ -1,0 +1,724 @@
+{
+  "senses": [
+    {
+      "id": "sense.e31fd2b08d8a972b",
+      "identityKey": "adapt|verb|change-to-fit",
+      "lexemeId": "lexeme.d77139a1fee44ec3",
+      "lemma": "adapt",
+      "partOfSpeech": "verb",
+      "senseKey": "change-to-fit",
+      "definitionZh": "调整以适应",
+      "definitionEn": "to change something so it fits a new situation",
+      "examples": [
+        {
+          "id": "example.882d5dbd4368f651",
+          "text": "We adapt the plan when the weather changes.",
+          "translation": "天气变化时，我们调整计划。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "adapt to change"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "adopt"
+      ],
+      "morphology": [
+        "adapt · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.0f83e1e7e6cc7529",
+          "type": "visual",
+          "text": "把“adapt：调整以适应”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.e2e032f138e35e59",
+          "type": "morphology",
+          "text": "先确认词形 adapt，再连接核心义“调整以适应”。",
+          "verified": true
+        },
+        {
+          "id": "cue.81a4a485eac0f2a1",
+          "type": "contrast",
+          "text": "与 adopt 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-16"
+    },
+    {
+      "id": "sense.daaf344c9fae1cf9",
+      "identityKey": "balance|noun|stable-state",
+      "lexemeId": "lexeme.c604b6c1323002eb",
+      "lemma": "balance",
+      "partOfSpeech": "noun",
+      "senseKey": "stable-state",
+      "definitionZh": "平衡",
+      "definitionEn": "a steady state in which different forces are equal",
+      "examples": [
+        {
+          "id": "example.71353ee13095dddb",
+          "text": "She keeps her balance on the narrow line.",
+          "translation": "她在窄线上保持平衡。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "keep a balance"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "balance · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.9cf59205a58a5223",
+          "type": "visual",
+          "text": "把“balance：平衡”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.97d3dc5b082da933",
+          "type": "morphology",
+          "text": "先确认词形 balance，再连接核心义“平衡”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-17"
+    },
+    {
+      "id": "sense.2897c538eac0f2a1",
+      "identityKey": "brave|adjective|showing-courage",
+      "lexemeId": "lexeme.575d3a7ffee44ec3",
+      "lemma": "brave",
+      "partOfSpeech": "adjective",
+      "senseKey": "showing-courage",
+      "definitionZh": "勇敢的",
+      "definitionEn": "ready to face danger or difficulty",
+      "examples": [
+        {
+          "id": "example.30ecbd8548496853",
+          "text": "It was brave of him to admit the mistake.",
+          "translation": "他勇于承认错误。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a brave choice"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "brave · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.1817eb593095dddb",
+          "type": "visual",
+          "text": "把“brave：勇敢的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.88673297404f5b6b",
+          "type": "morphology",
+          "text": "先确认词形 brave，再连接核心义“勇敢的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-18"
+    },
+    {
+      "id": "sense.03bb4b5f3341b7f1",
+      "identityKey": "collect|verb|bring-together",
+      "lexemeId": "lexeme.11a1aabf323002eb",
+      "lemma": "collect",
+      "partOfSpeech": "verb",
+      "senseKey": "bring-together",
+      "definitionZh": "收集",
+      "definitionEn": "to bring things together into one place",
+      "examples": [
+        {
+          "id": "example.8381a67cf4e12b43",
+          "text": "We collect fallen leaves for the class display.",
+          "translation": "我们收集落叶制作班级展览。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "collect samples"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "collect · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.39604360bce3734b",
+          "type": "visual",
+          "text": "把“collect：收集”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b4690e123095dddb",
+          "type": "morphology",
+          "text": "先确认词形 collect，再连接核心义“收集”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-19"
+    },
+    {
+      "id": "sense.0715f74e38e35e59",
+      "identityKey": "curious|adjective|wanting-to-know",
+      "lexemeId": "lexeme.e132b717323002eb",
+      "lemma": "curious",
+      "partOfSpeech": "adjective",
+      "senseKey": "wanting-to-know",
+      "definitionZh": "好奇的",
+      "definitionEn": "eager to know or learn something",
+      "examples": [
+        {
+          "id": "example.072ae223f37bfbfb",
+          "text": "The curious student asks how the clock works.",
+          "translation": "好奇的学生询问钟表如何运作。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "curious about"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "curious · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.7d8520d7f4e12b43",
+          "type": "visual",
+          "text": "把“curious：好奇的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.e67c73a148496853",
+          "type": "morphology",
+          "text": "先确认词形 curious，再连接核心义“好奇的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-20"
+    },
+    {
+      "id": "sense.a316c76d8d8a972b",
+      "identityKey": "direct|verb|guide-course",
+      "lexemeId": "lexeme.f99d74524b93c981",
+      "lemma": "direct",
+      "partOfSpeech": "verb",
+      "senseKey": "guide-course",
+      "definitionZh": "指引",
+      "definitionEn": "to guide someone or something toward a place or goal",
+      "examples": [
+        {
+          "id": "example.5db9c19a4368f651",
+          "text": "The signs direct visitors to the garden.",
+          "translation": "标志把访客引向花园。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "direct someone to"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "direct · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.e3c0e4ece6cc7529",
+          "type": "visual",
+          "text": "把“direct：指引”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.53b3b3a638e35e59",
+          "type": "morphology",
+          "text": "先确认词形 direct，再连接核心义“指引”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.c6d57fe016359613",
+      "identityKey": "energy|noun|ability-to-act",
+      "lexemeId": "lexeme.797d17af4b93c981",
+      "lemma": "energy",
+      "partOfSpeech": "noun",
+      "senseKey": "ability-to-act",
+      "definitionZh": "能量；精力",
+      "definitionEn": "the power or strength needed for activity",
+      "examples": [
+        {
+          "id": "example.8cb475edfebb8889",
+          "text": "A good breakfast gives her energy for practice.",
+          "translation": "一顿好早餐给她练习所需的精力。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "save energy"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "energy · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.f87745d7eac0f2a1",
+          "type": "visual",
+          "text": "把“energy：能量；精力”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.03abe8a14368f651",
+          "type": "morphology",
+          "text": "先确认词形 energy，再连接核心义“能量；精力”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.de03a137bce3734b",
+      "identityKey": "fragile|adjective|easily-damaged",
+      "lexemeId": "lexeme.0301975d323002eb",
+      "lemma": "fragile",
+      "partOfSpeech": "adjective",
+      "senseKey": "easily-damaged",
+      "definitionZh": "易碎的；脆弱的",
+      "definitionEn": "easily broken or damaged",
+      "examples": [
+        {
+          "id": "example.ba9fe724063118b1",
+          "text": "The fragile model travels in a padded box.",
+          "translation": "这个易碎模型装在有软垫的盒子里运输。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "fragile glass"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "fragile · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.d5004b0afebb8889",
+          "type": "visual",
+          "text": "把“fragile：易碎的；脆弱的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.9e0cf0700186a3b9",
+          "type": "morphology",
+          "text": "先确认词形 fragile，再连接核心义“易碎的；脆弱的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.8597ecea9fae1cf9",
+      "identityKey": "gather|verb|come-together",
+      "lexemeId": "lexeme.80d616604b93c981",
+      "lemma": "gather",
+      "partOfSpeech": "verb",
+      "senseKey": "come-together",
+      "definitionZh": "聚集；收集",
+      "definitionEn": "to bring people or things together",
+      "examples": [
+        {
+          "id": "example.4ea20f073095dddb",
+          "text": "Neighbors gather in the square for music.",
+          "translation": "邻居们聚集在广场听音乐。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "gather information"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "gather · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.112466f3a58a5223",
+          "type": "visual",
+          "text": "把“gather：聚集；收集”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.fc703ca5082da933",
+          "type": "morphology",
+          "text": "先确认词形 gather，再连接核心义“聚集；收集”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.b90ca0d39fae1cf9",
+      "identityKey": "honest|adjective|truthful",
+      "lexemeId": "lexeme.bf9dc5e44b93c981",
+      "lemma": "honest",
+      "partOfSpeech": "adjective",
+      "senseKey": "truthful",
+      "definitionZh": "诚实的",
+      "definitionEn": "truthful and not intended to deceive",
+      "examples": [
+        {
+          "id": "example.f3c0f1a83095dddb",
+          "text": "Give an honest answer even when it is difficult.",
+          "translation": "即使困难，也要给出诚实的回答。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "an honest answer"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "honest · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.ba3d9fd0a58a5223",
+          "type": "visual",
+          "text": "把“honest：诚实的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.433c6442082da933",
+          "type": "morphology",
+          "text": "先确认词形 honest，再连接核心义“诚实的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.87ac619f8d8a972b",
+      "identityKey": "improve|verb|make-better",
+      "lexemeId": "lexeme.87503cf1323002eb",
+      "lemma": "improve",
+      "partOfSpeech": "verb",
+      "senseKey": "make-better",
+      "definitionZh": "改善；提高",
+      "definitionEn": "to make or become better",
+      "examples": [
+        {
+          "id": "example.fcf775ac4368f651",
+          "text": "Daily practice can improve your timing.",
+          "translation": "每天练习可以改善你的节奏。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "improve a skill"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "improve · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.ac6e5daee6cc7529",
+          "type": "visual",
+          "text": "把“improve：改善；提高”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.043a5e8c38e35e59",
+          "type": "morphology",
+          "text": "先确认词形 improve，再连接核心义“改善；提高”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.adaa037c19255f99",
+      "identityKey": "journey|noun|trip",
+      "lexemeId": "lexeme.6e7e60b5323002eb",
+      "lemma": "journey",
+      "partOfSpeech": "noun",
+      "senseKey": "trip",
+      "definitionZh": "旅程",
+      "definitionEn": "an act of travelling from one place to another",
+      "examples": [
+        {
+          "id": "example.6496902156d70bbb",
+          "text": "Our train journey begins before sunrise.",
+          "translation": "我们的火车旅程在日出前开始。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a long journey"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "journey · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.3e770f8d7940e503",
+          "type": "visual",
+          "text": "把“journey：旅程”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8030b0d316359613",
+          "type": "morphology",
+          "text": "先确认词形 journey，再连接核心义“旅程”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-10"
+    },
+    {
+      "id": "sense.7289d017a58a5223",
+      "identityKey": "patient|adjective|able-to-wait",
+      "lexemeId": "lexeme.e3b1bf54323002eb",
+      "lemma": "patient",
+      "partOfSpeech": "adjective",
+      "senseKey": "able-to-wait",
+      "definitionZh": "有耐心的",
+      "definitionEn": "able to wait without becoming upset",
+      "examples": [
+        {
+          "id": "example.735aa8a40186a3b9",
+          "text": "Please be patient while the paint dries.",
+          "translation": "颜料晾干时请耐心等待。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "patient with"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "patient · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.4f267cce4368f651",
+          "type": "visual",
+          "text": "把“patient：有耐心的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.64d7e0ac8bc0f301",
+          "type": "morphology",
+          "text": "先确认词形 patient，再连接核心义“有耐心的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.e23dab347940e503",
+      "identityKey": "protect|verb|keep-safe",
+      "lexemeId": "lexeme.60caba1a323002eb",
+      "lemma": "protect",
+      "partOfSpeech": "verb",
+      "senseKey": "keep-safe",
+      "definitionZh": "保护",
+      "definitionEn": "to keep someone or something safe from harm",
+      "examples": [
+        {
+          "id": "example.0dd5fc6938e35e59",
+          "text": "Trees protect the path from strong wind.",
+          "translation": "树木保护小路免受强风侵袭。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "protect from"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "protect · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.c7e0c06f3341b7f1",
+          "type": "visual",
+          "text": "把“protect：保护”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.567e3429eac0f2a1",
+          "type": "morphology",
+          "text": "先确认词形 protect，再连接核心义“保护”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.b7e40d5646f8a5c9",
+      "identityKey": "vanish|verb|disappear",
+      "lexemeId": "lexeme.e3c4ab444b93c981",
+      "lemma": "vanish",
+      "partOfSpeech": "verb",
+      "senseKey": "disappear",
+      "definitionZh": "消失",
+      "definitionEn": "to disappear suddenly or completely",
+      "examples": [
+        {
+          "id": "example.0545fe2bbce3734b",
+          "text": "The last patch of mist vanished after sunrise.",
+          "translation": "日出后最后一片薄雾消失了。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "vanish from sight"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "vanish · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.6cf2068316359613",
+          "type": "visual",
+          "text": "把“vanish：消失”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.4aeff2b5a58a5223",
+          "type": "morphology",
+          "text": "先确认词形 vanish，再连接核心义“消失”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    }
+  ],
+  "aliases": {}
+}

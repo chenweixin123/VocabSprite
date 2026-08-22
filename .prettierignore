@@ -1,0 +1,9 @@
+node_modules
+target
+dist
+coverage
+packs/**/*.json
+apps/desktop/public/assets/scenes/*.svg
+pnpm-lock.yaml
+CODEX_MASTER_PROMPT.md
+CODEX_REVIEW_PROMPT.md

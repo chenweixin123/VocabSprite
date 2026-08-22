@@ -1,0 +1,725 @@
+{
+  "senses": [
+    {
+      "id": "sense.1215af6750a0470b",
+      "identityKey": "apple|noun|fruit",
+      "lexemeId": "lexeme.b489a391fee44ec3",
+      "lemma": "apple",
+      "partOfSpeech": "noun",
+      "senseKey": "fruit",
+      "definitionZh": "苹果",
+      "definitionEn": "a round fruit with firm flesh",
+      "examples": [
+        {
+          "id": "example.da2d1f343341b7f1",
+          "text": "Mina puts a red apple beside her lunch.",
+          "translation": "米娜把一个红苹果放在午餐旁。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a red apple"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "apple · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.8df9c09646f8a5c9",
+          "type": "visual",
+          "text": "把“apple：苹果”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.538e81849fae1cf9",
+          "type": "morphology",
+          "text": "先确认词形 apple，再连接核心义“苹果”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-01"
+    },
+    {
+      "id": "sense.06baa7df7940e503",
+      "identityKey": "book|noun|written-work",
+      "lexemeId": "lexeme.0ac9dcfe0e4cd309",
+      "lemma": "book",
+      "partOfSpeech": "noun",
+      "senseKey": "written-work",
+      "definitionZh": "书",
+      "definitionEn": "a set of written pages bound together",
+      "examples": [
+        {
+          "id": "example.59ec181c38e35e59",
+          "text": "This book tells a story about the moon.",
+          "translation": "这本书讲了一个关于月亮的故事。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "read a book"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "book · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.79149e0a3341b7f1",
+          "type": "visual",
+          "text": "把“book：书”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.c7d37370eac0f2a1",
+          "type": "morphology",
+          "text": "先确认词形 book，再连接核心义“书”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-02"
+    },
+    {
+      "id": "sense.28990c1aa58a5223",
+      "identityKey": "bright|adjective|full-of-light",
+      "lexemeId": "lexeme.472087174b93c981",
+      "lemma": "bright",
+      "partOfSpeech": "adjective",
+      "senseKey": "full-of-light",
+      "definitionZh": "明亮的",
+      "definitionEn": "giving or reflecting plenty of light",
+      "examples": [
+        {
+          "id": "example.e0b063a70186a3b9",
+          "text": "The bright window lights the small desk.",
+          "translation": "明亮的窗户照亮了小书桌。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "bright light"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "bright · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.934562dd4368f651",
+          "type": "visual",
+          "text": "把“bright：明亮的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.5aea8c238bc0f301",
+          "type": "morphology",
+          "text": "先确认词形 bright，再连接核心义“明亮的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-03"
+    },
+    {
+      "id": "sense.660f6a48ab951641",
+      "identityKey": "carry|verb|move-holding",
+      "lexemeId": "lexeme.e1f2f79efee44ec3",
+      "lemma": "carry",
+      "partOfSpeech": "verb",
+      "senseKey": "move-holding",
+      "definitionZh": "携带",
+      "definitionEn": "to take something while holding or supporting it",
+      "examples": [
+        {
+          "id": "example.86918e65082da933",
+          "text": "I carry a bottle on our walk.",
+          "translation": "散步时我带着一个水瓶。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "carry a bag"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "carry · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.bb8ab5d556d70bbb",
+          "type": "visual",
+          "text": "把“carry：携带”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.d2b5deabbce3734b",
+          "type": "morphology",
+          "text": "先确认词形 carry，再连接核心义“携带”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-04"
+    },
+    {
+      "id": "sense.8a29745fab951641",
+      "identityKey": "circle|noun|round-shape",
+      "lexemeId": "lexeme.02cd108b4b93c981",
+      "lemma": "circle",
+      "partOfSpeech": "noun",
+      "senseKey": "round-shape",
+      "definitionZh": "圆；圆圈",
+      "definitionEn": "a round shape whose edge is equally distant from its centre",
+      "examples": [
+        {
+          "id": "example.e379ed2c082da933",
+          "text": "Draw a circle around the correct answer.",
+          "translation": "在正确答案周围画一个圈。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "draw a circle"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "circle · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.b011aca856d70bbb",
+          "type": "visual",
+          "text": "把“circle：圆；圆圈”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.6882af4abce3734b",
+          "type": "morphology",
+          "text": "先确认词形 circle，再连接核心义“圆；圆圈”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-05"
+    },
+    {
+      "id": "sense.0eaa74119fae1cf9",
+      "identityKey": "clean|adjective|not-dirty",
+      "lexemeId": "lexeme.a8201e48fee44ec3",
+      "lemma": "clean",
+      "partOfSpeech": "adjective",
+      "senseKey": "not-dirty",
+      "definitionZh": "干净的",
+      "definitionEn": "free from dirt or unwanted marks",
+      "examples": [
+        {
+          "id": "example.bb4f7f163095dddb",
+          "text": "We keep the shared table clean.",
+          "translation": "我们让共用桌面保持干净。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "keep clean"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "clean · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.9ac948b6a58a5223",
+          "type": "visual",
+          "text": "把“clean：干净的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.ca02dca4082da933",
+          "type": "morphology",
+          "text": "先确认词形 clean，再连接核心义“干净的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-06"
+    },
+    {
+      "id": "sense.873cfe523e80aef3",
+      "identityKey": "climb|verb|move-up",
+      "lexemeId": "lexeme.ad1e9a64fee44ec3",
+      "lemma": "climb",
+      "partOfSpeech": "verb",
+      "senseKey": "move-up",
+      "definitionZh": "攀爬",
+      "definitionEn": "to move upward using hands, feet, or effort",
+      "examples": [
+        {
+          "id": "example.3247c88fe6cc7529",
+          "text": "The child climbs three safe steps.",
+          "translation": "孩子爬上了三级安全的台阶。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "climb a hill"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "climb · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.c5138449ab951641",
+          "type": "visual",
+          "text": "把“climb：攀爬”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.afb4fb473341b7f1",
+          "type": "morphology",
+          "text": "先确认词形 climb，再连接核心义“攀爬”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-07"
+    },
+    {
+      "id": "sense.f817943a16359613",
+      "identityKey": "gentle|adjective|soft-kind",
+      "lexemeId": "lexeme.1d15e4a64b93c981",
+      "lemma": "gentle",
+      "partOfSpeech": "adjective",
+      "senseKey": "soft-kind",
+      "definitionZh": "轻柔的；温和的",
+      "definitionEn": "soft, calm, or kind in manner",
+      "examples": [
+        {
+          "id": "example.f7ef9977febb8889",
+          "text": "Use a gentle voice near the sleeping baby.",
+          "translation": "在熟睡的婴儿旁轻声说话。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a gentle voice"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "gentle · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.94406789eac0f2a1",
+          "type": "visual",
+          "text": "把“gentle：轻柔的；温和的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.78903b874368f651",
+          "type": "morphology",
+          "text": "先确认词形 gentle，再连接核心义“轻柔的；温和的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-08"
+    },
+    {
+      "id": "sense.d7b9024346f8a5c9",
+      "identityKey": "help|verb|make-easier",
+      "lexemeId": "lexeme.3aa724800e4cd309",
+      "lemma": "help",
+      "partOfSpeech": "verb",
+      "senseKey": "make-easier",
+      "definitionZh": "帮助",
+      "definitionEn": "to make it easier for someone to do something",
+      "examples": [
+        {
+          "id": "example.9b4d2ec8bce3734b",
+          "text": "Two hands help lift the box.",
+          "translation": "两双手一起把箱子抬起来。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "help someone"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "help · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.b5f78a4016359613",
+          "type": "visual",
+          "text": "把“help：帮助”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8a3915f2a58a5223",
+          "type": "morphology",
+          "text": "先确认词形 help，再连接核心义“帮助”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-09"
+    },
+    {
+      "id": "sense.adaa037c19255f99",
+      "identityKey": "journey|noun|trip",
+      "lexemeId": "lexeme.6e7e60b5323002eb",
+      "lemma": "journey",
+      "partOfSpeech": "noun",
+      "senseKey": "trip",
+      "definitionZh": "旅程",
+      "definitionEn": "an act of travelling from one place to another",
+      "examples": [
+        {
+          "id": "example.6496902156d70bbb",
+          "text": "Our train journey begins before sunrise.",
+          "translation": "我们的火车旅程在日出前开始。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a long journey"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "journey · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.3e770f8d7940e503",
+          "type": "visual",
+          "text": "把“journey：旅程”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8030b0d316359613",
+          "type": "morphology",
+          "text": "先确认词形 journey，再连接核心义“旅程”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-10"
+    },
+    {
+      "id": "sense.ccccf76ceac0f2a1",
+      "identityKey": "listen|verb|pay-attention-sound",
+      "lexemeId": "lexeme.63a6fecc4b93c981",
+      "lemma": "listen",
+      "partOfSpeech": "verb",
+      "senseKey": "pay-attention-sound",
+      "definitionZh": "倾听",
+      "definitionEn": "to pay attention to a sound",
+      "examples": [
+        {
+          "id": "example.0003951148496853",
+          "text": "We listen for birds after the rain.",
+          "translation": "雨后我们倾听鸟叫。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "listen carefully"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "listen · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.c4ace9453095dddb",
+          "type": "visual",
+          "text": "把“listen：倾听”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.50d9359b404f5b6b",
+          "type": "morphology",
+          "text": "先确认词形 listen，再连接核心义“倾听”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-11"
+    },
+    {
+      "id": "sense.b62f893756d70bbb",
+      "identityKey": "quiet|adjective|little-noise",
+      "lexemeId": "lexeme.34af9461fee44ec3",
+      "lemma": "quiet",
+      "partOfSpeech": "adjective",
+      "senseKey": "little-noise",
+      "definitionZh": "安静的",
+      "definitionEn": "making very little noise",
+      "examples": [
+        {
+          "id": "example.791c6c548bc0f301",
+          "text": "The library stays quiet in the afternoon.",
+          "translation": "图书馆下午很安静。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a quiet place"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "quiet · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.532bc2b238e35e59",
+          "type": "visual",
+          "text": "把“quiet：安静的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b5096368febb8889",
+          "type": "morphology",
+          "text": "先确认词形 quiet，再连接核心义“安静的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-12"
+    },
+    {
+      "id": "sense.c22a0bcfab951641",
+      "identityKey": "share|verb|use-together",
+      "lexemeId": "lexeme.693579dafee44ec3",
+      "lemma": "share",
+      "partOfSpeech": "verb",
+      "senseKey": "use-together",
+      "definitionZh": "分享；共用",
+      "definitionEn": "to give part of something or use it together",
+      "examples": [
+        {
+          "id": "example.ec38d94c082da933",
+          "text": "The friends share a bowl of berries.",
+          "translation": "朋友们分享一碗浆果。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "share with"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "share · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.fcfd700c56d70bbb",
+          "type": "visual",
+          "text": "把“share：分享；共用”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.5445a2c6bce3734b",
+          "type": "morphology",
+          "text": "先确认词形 share，再连接核心义“分享；共用”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-13"
+    },
+    {
+      "id": "sense.4e2af8969fae1cf9",
+      "identityKey": "tiny|adjective|very-small",
+      "lexemeId": "lexeme.f72f45750e4cd309",
+      "lemma": "tiny",
+      "partOfSpeech": "adjective",
+      "senseKey": "very-small",
+      "definitionZh": "极小的",
+      "definitionEn": "very small in size",
+      "examples": [
+        {
+          "id": "example.184094ab3095dddb",
+          "text": "A tiny seed rests in her palm.",
+          "translation": "一颗小小的种子躺在她手心。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a tiny seed"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "tiny · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.59088c6ba58a5223",
+          "type": "visual",
+          "text": "把“tiny：极小的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.ec5bd98d082da933",
+          "type": "morphology",
+          "text": "先确认词形 tiny，再连接核心义“极小的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-14"
+    },
+    {
+      "id": "sense.aea31a068d8a972b",
+      "identityKey": "wonder|verb|feel-curious",
+      "lexemeId": "lexeme.8ebfb6904b93c981",
+      "lemma": "wonder",
+      "partOfSpeech": "verb",
+      "senseKey": "feel-curious",
+      "definitionZh": "想知道",
+      "definitionEn": "to feel curious and want to know",
+      "examples": [
+        {
+          "id": "example.2e0cbaab4368f651",
+          "text": "I wonder where the cloud will go.",
+          "translation": "我想知道那朵云会飘到哪里。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "wonder why"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "wonder · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.4d65ffdde6cc7529",
+          "type": "visual",
+          "text": "把“wonder：想知道”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b9b7f92338e35e59",
+          "type": "morphology",
+          "text": "先确认词形 wonder，再连接核心义“想知道”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-15"
+    }
+  ],
+  "aliases": {}
+}

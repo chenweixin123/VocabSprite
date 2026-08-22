@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "org.vocabsprite.junior.demo",
+  "title": "初中核心演示词包",
+  "stage": "junior",
+  "version": "0.1.0",
+  "language": "en",
+  "uiLocale": "zh-CN",
+  "coverage": "demo",
+  "officialStatus": "community-compatible",
+  "sourceName": "VocabSprite original demo content",
+  "sourceUrl": null,
+  "license": "CC0-1.0",
+  "attribution": null,
+  "checksum": "sha256:36894235871cbb34c8b90027f622d1c5f2134aa3f94e8f62a1a8d347357fef4a"
+}

@@ -1,0 +1,9 @@
+{
+  "main-capability": {
+    "identifier": "main-capability",
+    "description": "Minimal capability for the local main window. No shell, HTTP, filesystem, or clipboard guest permission is granted.",
+    "local": true,
+    "windows": ["main"],
+    "permissions": ["core:event:default", "core:window:allow-start-dragging"]
+  }
+}

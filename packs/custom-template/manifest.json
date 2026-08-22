@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "org.vocabsprite.custom.template",
+  "title": "自定义词包模板",
+  "stage": "custom",
+  "version": "0.1.0",
+  "language": "en",
+  "uiLocale": "zh-CN",
+  "coverage": "partial",
+  "officialStatus": "user-created",
+  "sourceName": "VocabSprite original demo content",
+  "sourceUrl": null,
+  "license": "CC0-1.0",
+  "attribution": null,
+  "checksum": "sha256:e2b8a4a3bc011567889a87a9f43ed1954b7b29c300c6fa321a2583eda7dcbe64"
+}

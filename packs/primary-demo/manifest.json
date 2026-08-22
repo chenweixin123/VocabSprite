@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "org.vocabsprite.primary.demo",
+  "title": "小学基础演示词包",
+  "stage": "primary",
+  "version": "0.1.0",
+  "language": "en",
+  "uiLocale": "zh-CN",
+  "coverage": "demo",
+  "officialStatus": "community-compatible",
+  "sourceName": "VocabSprite original demo content",
+  "sourceUrl": null,
+  "license": "CC0-1.0",
+  "attribution": null,
+  "checksum": "sha256:17dec7650eec341e3516628555412f64dfe95a4adf51342e042d00b527b3d48e"
+}

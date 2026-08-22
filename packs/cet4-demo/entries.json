@@ -1,0 +1,768 @@
+{
+  "senses": [
+    {
+      "id": "sense.e31fd2b08d8a972b",
+      "identityKey": "adapt|verb|change-to-fit",
+      "lexemeId": "lexeme.d77139a1fee44ec3",
+      "lemma": "adapt",
+      "partOfSpeech": "verb",
+      "senseKey": "change-to-fit",
+      "definitionZh": "调整以适应",
+      "definitionEn": "to change something so it fits a new situation",
+      "examples": [
+        {
+          "id": "example.882d5dbd4368f651",
+          "text": "We adapt the plan when the weather changes.",
+          "translation": "天气变化时，我们调整计划。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "adapt to change"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "adopt"
+      ],
+      "morphology": [
+        "adapt · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.0f83e1e7e6cc7529",
+          "type": "visual",
+          "text": "把“adapt：调整以适应”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.e2e032f138e35e59",
+          "type": "morphology",
+          "text": "先确认词形 adapt，再连接核心义“调整以适应”。",
+          "verified": true
+        },
+        {
+          "id": "cue.81a4a485eac0f2a1",
+          "type": "contrast",
+          "text": "与 adopt 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      },
+      "visualAssetId": "scene-16"
+    },
+    {
+      "id": "sense.6d3f4acdab951641",
+      "identityKey": "adopt|verb|begin-to-use",
+      "lexemeId": "lexeme.9f1a16cffee44ec3",
+      "lemma": "adopt",
+      "partOfSpeech": "verb",
+      "senseKey": "begin-to-use",
+      "definitionZh": "采用",
+      "definitionEn": "to begin to use a method, idea, or policy",
+      "examples": [
+        {
+          "id": "example.e08889aa082da933",
+          "text": "The club adopted a simpler booking system.",
+          "translation": "俱乐部采用了更简单的预订系统。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "adopt a method"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "adapt"
+      ],
+      "morphology": [
+        "adopt · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.26cbba7e56d70bbb",
+          "type": "visual",
+          "text": "把“adopt：采用”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.eac5169cbce3734b",
+          "type": "morphology",
+          "text": "先确认词形 adopt，再连接核心义“采用”。",
+          "verified": true
+        },
+        {
+          "id": "cue.83cf0ed0a58a5223",
+          "type": "contrast",
+          "text": "与 adapt 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.53217d8a46f8a5c9",
+      "identityKey": "affect|verb|influence",
+      "lexemeId": "lexeme.a6555a624b93c981",
+      "lemma": "affect",
+      "partOfSpeech": "verb",
+      "senseKey": "influence",
+      "definitionZh": "影响",
+      "definitionEn": "to produce a change in someone or something",
+      "examples": [
+        {
+          "id": "example.0e3a3547bce3734b",
+          "text": "A short walk can affect my mood for the better.",
+          "translation": "短暂散步会让我的心情变好。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "affect a result"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "effect"
+      ],
+      "morphology": [
+        "affect · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.58d8d20316359613",
+          "type": "visual",
+          "text": "把“affect：影响”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.bb57f635a58a5223",
+          "type": "morphology",
+          "text": "先确认词形 affect，再连接核心义“影响”。",
+          "verified": true
+        },
+        {
+          "id": "cue.e8b7ee2956d70bbb",
+          "type": "contrast",
+          "text": "与 effect 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.b43916513e80aef3",
+      "identityKey": "effect|noun|result",
+      "lexemeId": "lexeme.552cc7464b93c981",
+      "lemma": "effect",
+      "partOfSpeech": "noun",
+      "senseKey": "result",
+      "definitionZh": "结果；影响",
+      "definitionEn": "a change that happens because of an action or cause",
+      "examples": [
+        {
+          "id": "example.f7a1aa56e6cc7529",
+          "text": "The new routine had a calming effect.",
+          "translation": "新习惯产生了镇静效果。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "have an effect"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "affect"
+      ],
+      "morphology": [
+        "effect · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.66611610ab951641",
+          "type": "visual",
+          "text": "把“effect：结果；影响”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8140a2823341b7f1",
+          "type": "morphology",
+          "text": "先确认词形 effect，再连接核心义“结果；影响”。",
+          "verified": true
+        },
+        {
+          "id": "cue.411543ae9fae1cf9",
+          "type": "contrast",
+          "text": "与 affect 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.5099605d8d8a972b",
+      "identityKey": "ensure|verb|make-certain",
+      "lexemeId": "lexeme.47a453594b93c981",
+      "lemma": "ensure",
+      "partOfSpeech": "verb",
+      "senseKey": "make-certain",
+      "definitionZh": "确保",
+      "definitionEn": "to make certain that something happens",
+      "examples": [
+        {
+          "id": "example.84581d2a4368f651",
+          "text": "A checklist helps ensure that no step is missed.",
+          "translation": "核对清单有助于确保不遗漏步骤。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "ensure safety"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "assure",
+        "insure"
+      ],
+      "morphology": [
+        "ensure · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.2e8cd174e6cc7529",
+          "type": "visual",
+          "text": "把“ensure：确保”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.29ac72de38e35e59",
+          "type": "morphology",
+          "text": "先确认词形 ensure，再连接核心义“确保”。",
+          "verified": true
+        },
+        {
+          "id": "cue.92c05d1aeac0f2a1",
+          "type": "contrast",
+          "text": "与 assure / insure 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.94dc14899fae1cf9",
+      "identityKey": "focus|noun|main-attention",
+      "lexemeId": "lexeme.4b9872a5fee44ec3",
+      "lemma": "focus",
+      "partOfSpeech": "noun",
+      "senseKey": "main-attention",
+      "definitionZh": "重点；焦点",
+      "definitionEn": "the main subject receiving attention",
+      "examples": [
+        {
+          "id": "example.0040da6e3095dddb",
+          "text": "Clear writing keeps the focus on the evidence.",
+          "translation": "清晰的写作让重点落在证据上。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "the main focus"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "focus · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.576ed9e6a58a5223",
+          "type": "visual",
+          "text": "把“focus：重点；焦点”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b054fe54082da933",
+          "type": "morphology",
+          "text": "先确认词形 focus，再连接核心义“重点；焦点”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.a4394a6a9fae1cf9",
+      "identityKey": "impact|noun|strong-effect",
+      "lexemeId": "lexeme.73c317b94b93c981",
+      "lemma": "impact",
+      "partOfSpeech": "noun",
+      "senseKey": "strong-effect",
+      "definitionZh": "显著影响",
+      "definitionEn": "a strong effect on a situation or person",
+      "examples": [
+        {
+          "id": "example.34b6b3473095dddb",
+          "text": "The new route had little impact on travel time.",
+          "translation": "新路线对出行时间影响很小。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "have an impact"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "impact · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.221f4b2ba58a5223",
+          "type": "visual",
+          "text": "把“impact：显著影响”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.4e31184d082da933",
+          "type": "morphology",
+          "text": "先确认词形 impact，再连接核心义“显著影响”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.ac9531d256d70bbb",
+      "identityKey": "maintain|verb|keep-condition",
+      "lexemeId": "lexeme.5ef7f6eaa117a639",
+      "lemma": "maintain",
+      "partOfSpeech": "verb",
+      "senseKey": "keep-condition",
+      "definitionZh": "维持",
+      "definitionEn": "to keep something at the same level or in good condition",
+      "examples": [
+        {
+          "id": "example.c3b4c97f8bc0f301",
+          "text": "Small repairs maintain the bridge safely.",
+          "translation": "小修缮让桥梁保持安全。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "maintain a balance"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "maintain · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.caafb76d38e35e59",
+          "type": "visual",
+          "text": "把“maintain：维持”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.749d1cb3febb8889",
+          "type": "morphology",
+          "text": "先确认词形 maintain，再连接核心义“维持”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.210f202a8bc0f301",
+      "identityKey": "principal|adjective|main-most-important",
+      "lexemeId": "lexeme.f6af86d7315e73d3",
+      "lemma": "principal",
+      "partOfSpeech": "adjective",
+      "senseKey": "main-most-important",
+      "definitionZh": "主要的；最重要的",
+      "definitionEn": "first in order of importance",
+      "examples": [
+        {
+          "id": "example.8036299740995373",
+          "text": "Cost was the principal reason for the change.",
+          "translation": "成本是此次调整的主要原因。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "the principal reason"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "principle"
+      ],
+      "morphology": [
+        "principal · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.8679f38bf37bfbfb",
+          "type": "visual",
+          "text": "把“principal：主要的；最重要的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.84e369ade922cf8b",
+          "type": "morphology",
+          "text": "先确认词形 principal，再连接核心义“主要的；最重要的”。",
+          "verified": true
+        },
+        {
+          "id": "cue.02380d91affdf063",
+          "type": "contrast",
+          "text": "与 principle 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.6ea461573341b7f1",
+      "identityKey": "principle|noun|guiding-rule",
+      "lexemeId": "lexeme.f1a2b305315e73d3",
+      "lemma": "principle",
+      "partOfSpeech": "noun",
+      "senseKey": "guiding-rule",
+      "definitionZh": "原则",
+      "definitionEn": "a basic rule or belief that guides action",
+      "examples": [
+        {
+          "id": "example.69e82064f4e12b43",
+          "text": "Fairness is the principle behind the decision.",
+          "translation": "公平是这一决定背后的原则。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a guiding principle"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "principal"
+      ],
+      "morphology": [
+        "principle · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.98e68214bce3734b",
+          "type": "visual",
+          "text": "把“principle：原则”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.c3583f7e3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 principle，再连接核心义“原则”。",
+          "verified": true
+        },
+        {
+          "id": "cue.fa5f16ba082da933",
+          "type": "contrast",
+          "text": "与 principal 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.6cbac679a58a5223",
+      "identityKey": "process|noun|series-of-actions",
+      "lexemeId": "lexeme.3b4166f8323002eb",
+      "lemma": "process",
+      "partOfSpeech": "noun",
+      "senseKey": "series-of-actions",
+      "definitionZh": "过程；流程",
+      "definitionEn": "a series of actions that produces a result",
+      "examples": [
+        {
+          "id": "example.1d8d2cfe0186a3b9",
+          "text": "The review process takes three short steps.",
+          "translation": "审查流程包含三个简短步骤。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a learning process"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "process · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.bd6871384368f651",
+          "type": "visual",
+          "text": "把“process：过程；流程”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.e3322f9a8bc0f301",
+          "type": "morphology",
+          "text": "先确认词形 process，再连接核心义“过程；流程”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.4e14a14b19255f99",
+      "identityKey": "require|verb|need",
+      "lexemeId": "lexeme.bc8a99ce323002eb",
+      "lemma": "require",
+      "partOfSpeech": "verb",
+      "senseKey": "need",
+      "definitionZh": "需要；要求",
+      "definitionEn": "to need something or make it necessary",
+      "examples": [
+        {
+          "id": "example.31d69fc056d70bbb",
+          "text": "This repair requires a small special tool.",
+          "translation": "这次维修需要一个小型专用工具。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "require attention"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "require · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.d96349987940e503",
+          "type": "visual",
+          "text": "把“require：需要；要求”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.e1fa23fa16359613",
+          "type": "morphology",
+          "text": "先确认词形 require，再连接核心义“需要；要求”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.9c367d298d8a972b",
+      "identityKey": "respond|verb|reply-react",
+      "lexemeId": "lexeme.2de12160323002eb",
+      "lemma": "respond",
+      "partOfSpeech": "verb",
+      "senseKey": "reply-react",
+      "definitionZh": "回应；作出反应",
+      "definitionEn": "to reply or react to an event or statement",
+      "examples": [
+        {
+          "id": "example.412d9c2e4368f651",
+          "text": "Plants respond slowly to changes in light.",
+          "translation": "植物对光线变化的反应较慢。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "respond to"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "respond · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.0e2370a8e6cc7529",
+          "type": "visual",
+          "text": "把“respond：回应；作出反应”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b6ecb34a38e35e59",
+          "type": "morphology",
+          "text": "先确认词形 respond，再连接核心义“回应；作出反应”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.ec641a9448496853",
+      "identityKey": "significant|adjective|important-noticeable",
+      "lexemeId": "lexeme.48953142c08d4b7b",
+      "lemma": "significant",
+      "partOfSpeech": "adjective",
+      "senseKey": "important-noticeable",
+      "definitionZh": "重要的；显著的",
+      "definitionEn": "important or large enough to be noticed",
+      "examples": [
+        {
+          "id": "example.e3d49739fda17b49",
+          "text": "The second trial showed a significant improvement.",
+          "translation": "第二次试验显示出显著改善。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a significant change"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "significant · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.b9ad984b08b29761",
+          "type": "visual",
+          "text": "把“significant：重要的；显著的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.23d2456d557f9f11",
+          "type": "morphology",
+          "text": "先确认词形 significant，再连接核心义“重要的；显著的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.2531adb516359613",
+      "identityKey": "transfer|verb|move-between",
+      "lexemeId": "lexeme.83df9ca8a117a639",
+      "lemma": "transfer",
+      "partOfSpeech": "verb",
+      "senseKey": "move-between",
+      "definitionZh": "转移；转让",
+      "definitionEn": "to move something from one place or person to another",
+      "examples": [
+        {
+          "id": "example.05a78be2febb8889",
+          "text": "The device transfers the file without a network.",
+          "translation": "设备无需网络即可传输文件。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "transfer data"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "transfer · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.c10054b8eac0f2a1",
+          "type": "visual",
+          "text": "把“transfer：转移；转让”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.9b44cb1a4368f651",
+          "type": "morphology",
+          "text": "先确认词形 transfer，再连接核心义“转移；转让”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    }
+  ],
+  "aliases": {}
+}

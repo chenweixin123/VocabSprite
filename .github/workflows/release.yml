@@ -1,0 +1,41 @@
+name: Draft release
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing tag to draft
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  draft-windows-release:
+    runs-on: windows-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.19.0
+          run_install: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm tauri:build
+      - name: Create draft and attach unsigned bundles
+        shell: pwsh
+        run: |
+          $tag = if ('${{ inputs.tag }}') { '${{ inputs.tag }}' } else { '${{ github.ref_name }}' }
+          gh release create $tag --draft --verify-tag --title "VocabSprite $tag" --notes "Unsigned preview bundles. Complete signing, name clearance, and manual Windows checks before publication."
+          Get-ChildItem -Path target/release/bundle -Recurse -File -Include *.msi,*.exe | ForEach-Object {
+            gh release upload $tag $_.FullName
+          }

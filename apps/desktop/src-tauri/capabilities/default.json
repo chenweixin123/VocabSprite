@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main-capability",
+  "description": "Minimal capability for the local main window. No shell, HTTP, filesystem, or clipboard guest permission is granted.",
+  "windows": ["main"],
+  "permissions": ["core:event:default", "core:window:allow-start-dragging"]
+}

@@ -1,0 +1,768 @@
+{
+  "senses": [
+    {
+      "id": "sense.6f12317a56d70bbb",
+      "identityKey": "assure|verb|tell-confidently",
+      "lexemeId": "lexeme.60c789424b93c981",
+      "lemma": "assure",
+      "partOfSpeech": "verb",
+      "senseKey": "tell-confidently",
+      "definitionZh": "向……保证",
+      "definitionEn": "to tell a person confidently that something is true",
+      "examples": [
+        {
+          "id": "example.f4be3c978bc0f301",
+          "text": "I assured her that the records were safe.",
+          "translation": "我向她保证记录是安全的。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "assure someone that"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "ensure",
+        "insure"
+      ],
+      "morphology": [
+        "assure · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.c8c43e7d38e35e59",
+          "type": "visual",
+          "text": "把“assure：向……保证”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.df395ec3febb8889",
+          "type": "morphology",
+          "text": "先确认词形 assure，再连接核心义“向……保证”。",
+          "verified": true
+        },
+        {
+          "id": "cue.77d4504f4368f651",
+          "type": "contrast",
+          "text": "与 ensure / insure 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.9a4e41b2bce3734b",
+      "identityKey": "complement|verb|complete-enhance",
+      "lexemeId": "lexeme.36443a771b8fe731",
+      "lemma": "complement",
+      "partOfSpeech": "verb",
+      "senseKey": "complete-enhance",
+      "definitionZh": "补充；衬托",
+      "definitionEn": "to complete something or improve it by adding a matching quality",
+      "examples": [
+        {
+          "id": "example.95bc3acf063118b1",
+          "text": "The quiet music complements the visual display.",
+          "translation": "轻柔的音乐衬托了视觉展示。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "complement each other"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "compliment"
+      ],
+      "morphology": [
+        "complement · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.e060a935febb8889",
+          "type": "visual",
+          "text": "把“complement：补充；衬托”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.424ffc0b0186a3b9",
+          "type": "morphology",
+          "text": "先确认词形 complement，再连接核心义“补充；衬托”。",
+          "verified": true
+        },
+        {
+          "id": "cue.dd8089078bc0f301",
+          "type": "contrast",
+          "text": "与 compliment 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.20508f217940e503",
+      "identityKey": "compliment|noun|praise",
+      "lexemeId": "lexeme.da45b41b1b8fe731",
+      "lemma": "compliment",
+      "partOfSpeech": "noun",
+      "senseKey": "praise",
+      "definitionZh": "赞美；称赞",
+      "definitionEn": "a polite expression of praise or admiration",
+      "examples": [
+        {
+          "id": "example.ab5579c638e35e59",
+          "text": "Her specific compliment encouraged the new speaker.",
+          "translation": "她具体的赞美鼓励了新演讲者。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "pay a compliment"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "complement"
+      ],
+      "morphology": [
+        "compliment · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.4cedc8cc3341b7f1",
+          "type": "visual",
+          "text": "把“compliment：赞美；称赞”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.bc6e0b86eac0f2a1",
+          "type": "morphology",
+          "text": "先确认词形 compliment，再连接核心义“赞美；称赞”。",
+          "verified": true
+        },
+        {
+          "id": "cue.096179b2e6cc7529",
+          "type": "contrast",
+          "text": "与 complement 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.018ee01c9fae1cf9",
+      "identityKey": "conscious|adjective|aware",
+      "lexemeId": "lexeme.d1f7c5a7315e73d3",
+      "lemma": "conscious",
+      "partOfSpeech": "adjective",
+      "senseKey": "aware",
+      "definitionZh": "意识到的；清醒的",
+      "definitionEn": "aware of something or awake and able to think",
+      "examples": [
+        {
+          "id": "example.5a9c1dc13095dddb",
+          "text": "We became conscious of the noise only when it stopped.",
+          "translation": "噪声停止后我们才意识到它。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "conscious of"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "conscience"
+      ],
+      "morphology": [
+        "conscious · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.fc1165f9a58a5223",
+          "type": "visual",
+          "text": "把“conscious：意识到的；清醒的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.f3145437082da933",
+          "type": "morphology",
+          "text": "先确认词形 conscious，再连接核心义“意识到的；清醒的”。",
+          "verified": true
+        },
+        {
+          "id": "cue.cc3845f3bce3734b",
+          "type": "contrast",
+          "text": "与 conscience 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.a4f6b66d3341b7f1",
+      "identityKey": "conscience|noun|moral-sense",
+      "lexemeId": "lexeme.25103f511b8fe731",
+      "lemma": "conscience",
+      "partOfSpeech": "noun",
+      "senseKey": "moral-sense",
+      "definitionZh": "良知",
+      "definitionEn": "the inner sense that judges whether an action is right",
+      "examples": [
+        {
+          "id": "example.e78dbfcaf4e12b43",
+          "text": "His conscience urged him to return the lost wallet.",
+          "translation": "良知促使他归还捡到的钱包。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a clear conscience"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "conscious"
+      ],
+      "morphology": [
+        "conscience · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.fc7c273abce3734b",
+          "type": "visual",
+          "text": "把“conscience：良知”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.adc8fe603095dddb",
+          "type": "morphology",
+          "text": "先确认词形 conscience，再连接核心义“良知”。",
+          "verified": true
+        },
+        {
+          "id": "cue.96d68da4082da933",
+          "type": "contrast",
+          "text": "与 conscious 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.a784e74ce6cc7529",
+      "identityKey": "insure|verb|provide-insurance",
+      "lexemeId": "lexeme.5bec14654b93c981",
+      "lemma": "insure",
+      "partOfSpeech": "verb",
+      "senseKey": "provide-insurance",
+      "definitionZh": "为……投保",
+      "definitionEn": "to arrange financial protection against possible loss",
+      "examples": [
+        {
+          "id": "example.78937951404f5b6b",
+          "text": "They insured the instruments before the tour.",
+          "translation": "巡演前他们为乐器投了保。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "insure against loss"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "assure",
+        "ensure"
+      ],
+      "morphology": [
+        "insure · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.1d8502c1082da933",
+          "type": "visual",
+          "text": "把“insure：为……投保”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.f00949cff4e12b43",
+          "type": "morphology",
+          "text": "先确认词形 insure，再连接核心义“为……投保”。",
+          "verified": true
+        },
+        {
+          "id": "cue.68a5829b3095dddb",
+          "type": "contrast",
+          "text": "与 assure / ensure 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.d31c3b67f4e12b43",
+      "identityKey": "intricate|adjective|many-small-details",
+      "lexemeId": "lexeme.0ea6983a315e73d3",
+      "lemma": "intricate",
+      "partOfSpeech": "adjective",
+      "senseKey": "many-small-details",
+      "definitionZh": "错综复杂的",
+      "definitionEn": "having many small parts arranged in a complicated way",
+      "examples": [
+        {
+          "id": "example.726ffa54a4e96d19",
+          "text": "An intricate network of paths crosses the wetland.",
+          "translation": "错综复杂的小径网络穿过湿地。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "an intricate design"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "intricate · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.7d1e430a063118b1",
+          "type": "visual",
+          "text": "把“intricate：错综复杂的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.c812687008b29761",
+          "type": "morphology",
+          "text": "先确认词形 intricate，再连接核心义“错综复杂的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.143242223095dddb",
+      "identityKey": "nuanced|adjective|subtle-differences",
+      "lexemeId": "lexeme.844c3f77323002eb",
+      "lemma": "nuanced",
+      "partOfSpeech": "adjective",
+      "senseKey": "subtle-differences",
+      "definitionZh": "有细微差别的",
+      "definitionEn": "showing subtle but meaningful distinctions",
+      "examples": [
+        {
+          "id": "example.9c9f7e1f08b29761",
+          "text": "Her nuanced answer avoids a false either-or choice.",
+          "translation": "她细致的回答避免了虚假的二选一。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a nuanced view"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "nuanced · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.d766ddad0186a3b9",
+          "type": "visual",
+          "text": "把“nuanced：有细微差别的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.2551faf3500f5fe9",
+          "type": "morphology",
+          "text": "先确认词形 nuanced，再连接核心义“有细微差别的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.395124b556d70bbb",
+      "identityKey": "principal|noun|school-leader",
+      "lexemeId": "lexeme.f6af86d7315e73d3",
+      "lemma": "principal",
+      "partOfSpeech": "noun",
+      "senseKey": "school-leader",
+      "definitionZh": "校长；负责人",
+      "definitionEn": "the person in charge of a school or organization",
+      "examples": [
+        {
+          "id": "example.bdd7fda28bc0f301",
+          "text": "The principal met the student council after lunch.",
+          "translation": "校长午后会见了学生会。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "school principal"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [
+        "principle"
+      ],
+      "morphology": [
+        "principal · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.80e7a6b038e35e59",
+          "type": "visual",
+          "text": "把“principal：校长；负责人”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.6ea82322febb8889",
+          "type": "morphology",
+          "text": "先确认词形 principal，再连接核心义“校长；负责人”。",
+          "verified": true
+        },
+        {
+          "id": "cue.63d3d64e4368f651",
+          "type": "contrast",
+          "text": "与 principle 对照：先看词性和句中作用。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.cfa3edcbe6cc7529",
+      "identityKey": "reluctant|adjective|unwilling",
+      "lexemeId": "lexeme.9b51dd9b315e73d3",
+      "lemma": "reluctant",
+      "partOfSpeech": "adjective",
+      "senseKey": "unwilling",
+      "definitionZh": "不情愿的",
+      "definitionEn": "not willing or eager to do something",
+      "examples": [
+        {
+          "id": "example.15e39860404f5b6b",
+          "text": "He was reluctant to interrupt the quiet room.",
+          "translation": "他不愿打破房间里的安静。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "reluctant to act"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "reluctant · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.92308114082da933",
+          "type": "visual",
+          "text": "把“reluctant：不情愿的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.5b032e7ef4e12b43",
+          "type": "morphology",
+          "text": "先确认词形 reluctant，再连接核心义“不情愿的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.c9887dca9fae1cf9",
+      "identityKey": "scatter|verb|spread-apart",
+      "lexemeId": "lexeme.b83e8647323002eb",
+      "lemma": "scatter",
+      "partOfSpeech": "verb",
+      "senseKey": "spread-apart",
+      "definitionZh": "使散开",
+      "definitionEn": "to move or spread in different directions",
+      "examples": [
+        {
+          "id": "example.7653c3d73095dddb",
+          "text": "The breeze scattered the papers across the table.",
+          "translation": "微风把纸张吹散在桌面上。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "scatter across"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "scatter · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.bc15f6f3a58a5223",
+          "type": "visual",
+          "text": "把“scatter：使散开”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.88eacca5082da933",
+          "type": "morphology",
+          "text": "先确认词形 scatter，再连接核心义“使散开”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.dacf5ad7ab951641",
+      "identityKey": "sustain|verb|keep-going",
+      "lexemeId": "lexeme.e24e9390323002eb",
+      "lemma": "sustain",
+      "partOfSpeech": "verb",
+      "senseKey": "keep-going",
+      "definitionZh": "维持；支撑",
+      "definitionEn": "to keep an activity or process continuing",
+      "examples": [
+        {
+          "id": "example.6ab963f4082da933",
+          "text": "Regular feedback sustains progress over a long project.",
+          "translation": "定期反馈维持了长期项目的进展。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "sustain growth"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "sustain · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.014fce8856d70bbb",
+          "type": "visual",
+          "text": "把“sustain：维持；支撑”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.de7e552abce3734b",
+          "type": "morphology",
+          "text": "先确认词形 sustain，再连接核心义“维持；支撑”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.0f2920e2e6cc7529",
+      "identityKey": "tentative|adjective|not-final",
+      "lexemeId": "lexeme.68bdb39b315e73d3",
+      "lemma": "tentative",
+      "partOfSpeech": "adjective",
+      "senseKey": "not-final",
+      "definitionZh": "暂定的；试探性的",
+      "definitionEn": "not certain or fixed and open to change",
+      "examples": [
+        {
+          "id": "example.c143d06f404f5b6b",
+          "text": "We made a tentative schedule for the field visit.",
+          "translation": "我们为实地考察拟定了暂定日程。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a tentative plan"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "tentative · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.60762253082da933",
+          "type": "visual",
+          "text": "把“tentative：暂定的；试探性的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b6753005f4e12b43",
+          "type": "morphology",
+          "text": "先确认词形 tentative，再连接核心义“暂定的；试探性的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.b2ef3d43bce3734b",
+      "identityKey": "transform|verb|change-completely",
+      "lexemeId": "lexeme.42478295315e73d3",
+      "lemma": "transform",
+      "partOfSpeech": "verb",
+      "senseKey": "change-completely",
+      "definitionZh": "使彻底改变",
+      "definitionEn": "to change the form or character of something greatly",
+      "examples": [
+        {
+          "id": "example.ca9bbf28063118b1",
+          "text": "A clear question transformed the discussion.",
+          "translation": "一个清晰的问题改变了讨论。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "transform into"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "transform · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.bc557096febb8889",
+          "type": "visual",
+          "text": "把“transform：使彻底改变”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.37f531840186a3b9",
+          "type": "morphology",
+          "text": "先确认词形 transform，再连接核心义“使彻底改变”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.ad6d629a56d70bbb",
+      "identityKey": "valid|adjective|well-founded",
+      "lexemeId": "lexeme.4dd3271ffee44ec3",
+      "lemma": "valid",
+      "partOfSpeech": "adjective",
+      "senseKey": "well-founded",
+      "definitionZh": "有效的；有根据的",
+      "definitionEn": "based on sound reasoning or accepted rules",
+      "examples": [
+        {
+          "id": "example.b0b0a9f78bc0f301",
+          "text": "The conclusion is valid only under the stated condition.",
+          "translation": "该结论只在所述条件下有效。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a valid argument"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "valid · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.2ad1b91138e35e59",
+          "type": "visual",
+          "text": "把“valid：有效的；有根据的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.6793a25ffebb8889",
+          "type": "morphology",
+          "text": "先确认词形 valid，再连接核心义“有效的；有根据的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    }
+  ],
+  "aliases": {}
+}

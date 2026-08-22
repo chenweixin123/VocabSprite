@@ -1,0 +1,710 @@
+{
+  "senses": [
+    {
+      "id": "sense.bbbf95d016359613",
+      "identityKey": "bloom|verb|produce-flowers",
+      "lexemeId": "lexeme.8248e1d2fee44ec3",
+      "lemma": "bloom",
+      "partOfSpeech": "verb",
+      "senseKey": "produce-flowers",
+      "definitionZh": "开花",
+      "definitionEn": "to produce flowers or develop with new energy",
+      "examples": [
+        {
+          "id": "example.7273b49dfebb8889",
+          "text": "The balcony plants bloom after the warm rain.",
+          "translation": "暖雨过后，阳台植物开花了。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "bloom in spring"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "bloom · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.5d571d63eac0f2a1",
+          "type": "visual",
+          "text": "把“bloom：开花”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.eb8028954368f651",
+          "type": "morphology",
+          "text": "先确认词形 bloom，再连接核心义“开花”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.1e7667893341b7f1",
+      "identityKey": "compass|noun|direction-tool",
+      "lexemeId": "lexeme.fa3adc29323002eb",
+      "lemma": "compass",
+      "partOfSpeech": "noun",
+      "senseKey": "direction-tool",
+      "definitionZh": "指南针",
+      "definitionEn": "an instrument that shows direction",
+      "examples": [
+        {
+          "id": "example.9ae55a5ef4e12b43",
+          "text": "The small compass points north beside the map.",
+          "translation": "小指南针在地图旁指向北方。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "use a compass"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "compass · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.035839febce3734b",
+          "type": "visual",
+          "text": "把“compass：指南针”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.0d7a0e1c3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 compass，再连接核心义“指南针”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.8cf001037940e503",
+      "identityKey": "drift|verb|move-slowly",
+      "lexemeId": "lexeme.a2da2d66fee44ec3",
+      "lemma": "drift",
+      "partOfSpeech": "verb",
+      "senseKey": "move-slowly",
+      "definitionZh": "缓缓移动；漂流",
+      "definitionEn": "to move slowly without a clear direction",
+      "examples": [
+        {
+          "id": "example.b6a25af838e35e59",
+          "text": "A pale cloud drifts above the empty field.",
+          "translation": "一朵淡云缓缓飘过空旷的田野。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "drift away"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "drift · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.176521723341b7f1",
+          "type": "visual",
+          "text": "把“drift：缓缓移动；漂流”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.548b3e28eac0f2a1",
+          "type": "morphology",
+          "text": "先确认词形 drift，再连接核心义“缓缓移动；漂流”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.e1667f008d8a972b",
+      "identityKey": "echo|noun|repeated-sound",
+      "lexemeId": "lexeme.c9b5355a0e4cd309",
+      "lemma": "echo",
+      "partOfSpeech": "noun",
+      "senseKey": "repeated-sound",
+      "definitionZh": "回声",
+      "definitionEn": "a sound heard again after reflecting from a surface",
+      "examples": [
+        {
+          "id": "example.3a825dcd4368f651",
+          "text": "One clap sent an echo through the tunnel.",
+          "translation": "一声拍手在隧道中激起回声。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a faint echo"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "echo · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.064c139be6cc7529",
+          "type": "visual",
+          "text": "把“echo：回声”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.ee02ca7d38e35e59",
+          "type": "morphology",
+          "text": "先确认词形 echo，再连接核心义“回声”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.fdbe15f03341b7f1",
+      "identityKey": "flicker|verb|unsteady-light",
+      "lexemeId": "lexeme.85004981323002eb",
+      "lemma": "flicker",
+      "partOfSpeech": "verb",
+      "senseKey": "unsteady-light",
+      "definitionZh": "闪烁",
+      "definitionEn": "to shine with small, unsteady changes in brightness",
+      "examples": [
+        {
+          "id": "example.1b3cd23df4e12b43",
+          "text": "The candle flickers but does not go out.",
+          "translation": "蜡烛闪烁着，却没有熄灭。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "lights flicker"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "flicker · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.cf5a2ff5bce3734b",
+          "type": "visual",
+          "text": "把“flicker：闪烁”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.822ccfcb3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 flicker，再连接核心义“闪烁”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.4b87482aab951641",
+      "identityKey": "glimpse|noun|brief-view",
+      "lexemeId": "lexeme.13085b3e323002eb",
+      "lemma": "glimpse",
+      "partOfSpeech": "noun",
+      "senseKey": "brief-view",
+      "definitionZh": "一瞥",
+      "definitionEn": "a very brief or incomplete view",
+      "examples": [
+        {
+          "id": "example.abb7e6b7082da933",
+          "text": "We caught a glimpse of the fox between the trees.",
+          "translation": "我们在树间瞥见了狐狸。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "catch a glimpse"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "glimpse · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.6982719756d70bbb",
+          "type": "visual",
+          "text": "把“glimpse：一瞥”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.36c5bb61bce3734b",
+          "type": "morphology",
+          "text": "先确认词形 glimpse，再连接核心义“一瞥”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.8903b1e08d8a972b",
+      "identityKey": "harbor|verb|keep-feeling",
+      "lexemeId": "lexeme.ceac97b14b93c981",
+      "lemma": "harbor",
+      "partOfSpeech": "verb",
+      "senseKey": "keep-feeling",
+      "definitionZh": "怀有（想法或情感）",
+      "definitionEn": "to keep a thought or feeling for a long time",
+      "examples": [
+        {
+          "id": "example.21cdff3d4368f651",
+          "text": "She harbored no anger after the honest apology.",
+          "translation": "真诚道歉后，她不再怀有怒意。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "harbor doubts"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "harbor · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.5e643003e6cc7529",
+          "type": "visual",
+          "text": "把“harbor：怀有（想法或情感）”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8dbb343538e35e59",
+          "type": "morphology",
+          "text": "先确认词形 harbor，再连接核心义“怀有（想法或情感）”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.c918ebc89fae1cf9",
+      "identityKey": "kindle|verb|start-feeling",
+      "lexemeId": "lexeme.3ba636ae4b93c981",
+      "lemma": "kindle",
+      "partOfSpeech": "verb",
+      "senseKey": "start-feeling",
+      "definitionZh": "点燃；激起",
+      "definitionEn": "to start a fire or awaken a feeling",
+      "examples": [
+        {
+          "id": "example.554b26d53095dddb",
+          "text": "The workshop kindled his interest in design.",
+          "translation": "工作坊激起了他对设计的兴趣。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "kindle interest"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "kindle · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.57780379a58a5223",
+          "type": "visual",
+          "text": "把“kindle：点燃；激起”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.57a749b7082da933",
+          "type": "morphology",
+          "text": "先确认词形 kindle，再连接核心义“点燃；激起”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.a8013062febb8889",
+      "identityKey": "lucid|adjective|clear-easy-understand",
+      "lexemeId": "lexeme.0e1d7e74fee44ec3",
+      "lemma": "lucid",
+      "partOfSpeech": "adjective",
+      "senseKey": "clear-easy-understand",
+      "definitionZh": "清晰易懂的",
+      "definitionEn": "expressed clearly and easy to understand",
+      "examples": [
+        {
+          "id": "example.31f7876fe922cf8b",
+          "text": "Her lucid summary settled the main question.",
+          "translation": "她清晰的总结解决了主要问题。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a lucid explanation"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "lucid · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.14f3734348496853",
+          "type": "visual",
+          "text": "把“lucid：清晰易懂的”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.404a1675affdf063",
+          "type": "morphology",
+          "text": "先确认词形 lucid，再连接核心义“清晰易懂的”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.76cfa425bce3734b",
+      "identityKey": "mosaic|noun|pattern-small-pieces",
+      "lexemeId": "lexeme.1f0864934b93c981",
+      "lemma": "mosaic",
+      "partOfSpeech": "noun",
+      "senseKey": "pattern-small-pieces",
+      "definitionZh": "马赛克；镶嵌图案",
+      "definitionEn": "a picture or pattern made from many small pieces",
+      "examples": [
+        {
+          "id": "example.af158032063118b1",
+          "text": "Blue tiles form a wave in the mosaic.",
+          "translation": "蓝色瓷砖在镶嵌画中组成波浪。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a tile mosaic"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "mosaic · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.37ed513cfebb8889",
+          "type": "visual",
+          "text": "把“mosaic：马赛克；镶嵌图案”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.9c15b6f60186a3b9",
+          "type": "morphology",
+          "text": "先确认词形 mosaic，再连接核心义“马赛克；镶嵌图案”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.5be5cf1dab951641",
+      "identityKey": "pulse|noun|regular-beat",
+      "lexemeId": "lexeme.d31333ccfee44ec3",
+      "lemma": "pulse",
+      "partOfSpeech": "noun",
+      "senseKey": "regular-beat",
+      "definitionZh": "脉搏；有节律的跳动",
+      "definitionEn": "a regular beat or repeated movement",
+      "examples": [
+        {
+          "id": "example.1aaa319a082da933",
+          "text": "A soft pulse of light marks each second.",
+          "translation": "柔和的光脉冲标记着每一秒。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a steady pulse"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "pulse · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.4b86ff1e56d70bbb",
+          "type": "visual",
+          "text": "把“pulse：脉搏；有节律的跳动”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.15404e3cbce3734b",
+          "type": "morphology",
+          "text": "先确认词形 pulse，再连接核心义“脉搏；有节律的跳动”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.b6b923c07940e503",
+      "identityKey": "ripple|noun|small-wave",
+      "lexemeId": "lexeme.0c7037994b93c981",
+      "lemma": "ripple",
+      "partOfSpeech": "noun",
+      "senseKey": "small-wave",
+      "definitionZh": "涟漪",
+      "definitionEn": "a small wave on the surface of water",
+      "examples": [
+        {
+          "id": "example.f48f7b7d38e35e59",
+          "text": "A falling leaf made one ripple on the pond.",
+          "translation": "一片落叶在池塘上激起一道涟漪。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a ripple spreads"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "ripple · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.b37fe3ff3341b7f1",
+          "type": "visual",
+          "text": "把“ripple：涟漪”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8170b179eac0f2a1",
+          "type": "morphology",
+          "text": "先确认词形 ripple，再连接核心义“涟漪”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.2e5cf70616359613",
+      "identityKey": "shelter|verb|protect-cover",
+      "lexemeId": "lexeme.930c1be4323002eb",
+      "lemma": "shelter",
+      "partOfSpeech": "verb",
+      "senseKey": "protect-cover",
+      "definitionZh": "庇护；遮蔽",
+      "definitionEn": "to protect someone or something from danger or weather",
+      "examples": [
+        {
+          "id": "example.bbdce1dbfebb8889",
+          "text": "The stone wall shelters the garden from wind.",
+          "translation": "石墙为花园挡风。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "shelter from"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "shelter · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.88b7bc09eac0f2a1",
+          "type": "visual",
+          "text": "把“shelter：庇护；遮蔽”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.984858074368f651",
+          "type": "morphology",
+          "text": "先确认词形 shelter，再连接核心义“庇护；遮蔽”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.c941a391ab951641",
+      "identityKey": "thread|noun|thin-strand",
+      "lexemeId": "lexeme.edbb9fcb4b93c981",
+      "lemma": "thread",
+      "partOfSpeech": "noun",
+      "senseKey": "thin-strand",
+      "definitionZh": "线",
+      "definitionEn": "a long, thin strand used for sewing or connecting things",
+      "examples": [
+        {
+          "id": "example.7f66abb6082da933",
+          "text": "A red thread marks the repaired seam.",
+          "translation": "一根红线标出了修补的接缝。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a thread of"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "thread · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.c070e86a56d70bbb",
+          "type": "visual",
+          "text": "把“thread：线”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.fb228bd0bce3734b",
+          "type": "morphology",
+          "text": "先确认词形 thread，再连接核心义“线”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.4d6c4fdf6503059b",
+      "identityKey": "weave|verb|interlace",
+      "lexemeId": "lexeme.5b4eb317fee44ec3",
+      "lemma": "weave",
+      "partOfSpeech": "verb",
+      "senseKey": "interlace",
+      "definitionZh": "编织",
+      "definitionEn": "to make material by crossing threads over and under each other",
+      "examples": [
+        {
+          "id": "example.9e596fdceac0f2a1",
+          "text": "They weave narrow strips into a strong basket.",
+          "translation": "他们把窄条编成结实的篮子。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "weave together"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "weave · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.264ac5a69fae1cf9",
+          "type": "visual",
+          "text": "把“weave：编织”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.6f0f0214e6cc7529",
+          "type": "morphology",
+          "text": "先确认词形 weave，再连接核心义“编织”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    }
+  ],
+  "aliases": {}
+}

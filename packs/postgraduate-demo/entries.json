@@ -1,0 +1,710 @@
+{
+  "senses": [
+    {
+      "id": "sense.1548a5457940e503",
+      "identityKey": "address|verb|deal-with",
+      "lexemeId": "lexeme.5c1ac8f1323002eb",
+      "lemma": "address",
+      "partOfSpeech": "verb",
+      "senseKey": "deal-with",
+      "definitionZh": "处理；应对",
+      "definitionEn": "to give attention to and deal with a problem",
+      "examples": [
+        {
+          "id": "example.c6d6c8c238e35e59",
+          "text": "The revised model addresses the boundary case directly.",
+          "translation": "修订后的模型直接处理了边界情形。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "address a problem"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "address · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.93872c083341b7f1",
+          "type": "visual",
+          "text": "把“address：处理；应对”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.462e0aaaeac0f2a1",
+          "type": "morphology",
+          "text": "先确认词形 address，再连接核心义“处理；应对”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.dcba01108d8a972b",
+      "identityKey": "compound|verb|make-worse",
+      "lexemeId": "lexeme.7e120572a117a639",
+      "lemma": "compound",
+      "partOfSpeech": "verb",
+      "senseKey": "make-worse",
+      "definitionZh": "使加重；使复杂化",
+      "definitionEn": "to make a difficult situation worse by adding another problem",
+      "examples": [
+        {
+          "id": "example.e062079d4368f651",
+          "text": "A late correction compounded the scheduling difficulty.",
+          "translation": "迟来的修正加剧了排期困难。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "compound a problem"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "compound · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.5959b087e6cc7529",
+          "type": "visual",
+          "text": "把“compound：使加重；使复杂化”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.9584f39138e35e59",
+          "type": "morphology",
+          "text": "先确认词形 compound，再连接核心义“使加重；使复杂化”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.e6b2979c16359613",
+      "identityKey": "constitute|verb|form-whole",
+      "lexemeId": "lexeme.492b75251b8fe731",
+      "lemma": "constitute",
+      "partOfSpeech": "verb",
+      "senseKey": "form-whole",
+      "definitionZh": "构成",
+      "definitionEn": "to form or be the parts of a whole",
+      "examples": [
+        {
+          "id": "example.801cf001febb8889",
+          "text": "Three independent checks constitute the final review.",
+          "translation": "三项独立检查构成最终审查。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "constitute evidence"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "constitute · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.267ab573eac0f2a1",
+          "type": "visual",
+          "text": "把“constitute：构成”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.227cf3254368f651",
+          "type": "morphology",
+          "text": "先确认词形 constitute，再连接核心义“构成”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.f2eb71ada58a5223",
+      "identityKey": "discipline|noun|field-of-study",
+      "lexemeId": "lexeme.af8bf5b91b8fe731",
+      "lemma": "discipline",
+      "partOfSpeech": "noun",
+      "senseKey": "field-of-study",
+      "definitionZh": "学科",
+      "definitionEn": "a recognized field of study or knowledge",
+      "examples": [
+        {
+          "id": "example.fade7e3a0186a3b9",
+          "text": "Statistics supports research across many disciplines.",
+          "translation": "统计学支持许多学科的研究。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "academic discipline"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "discipline · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.1cfaca5c4368f651",
+          "type": "visual",
+          "text": "把“discipline：学科”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.262d19168bc0f301",
+          "type": "morphology",
+          "text": "先确认词形 discipline，再连接核心义“学科”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "scatter",
+        "intensity": "standard",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.cd5b96f23341b7f1",
+      "identityKey": "elaborate|verb|explain-more",
+      "lexemeId": "lexeme.18d65a50315e73d3",
+      "lemma": "elaborate",
+      "partOfSpeech": "verb",
+      "senseKey": "explain-more",
+      "definitionZh": "详细说明",
+      "definitionEn": "to add details in order to explain an idea more fully",
+      "examples": [
+        {
+          "id": "example.2abeab8ff4e12b43",
+          "text": "The author elaborates on the assumption in an appendix.",
+          "translation": "作者在附录中详细说明这一假设。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "elaborate on"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "elaborate · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.0fbcb70bbce3734b",
+          "type": "visual",
+          "text": "把“elaborate：详细说明”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.aa6ee52d3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 elaborate，再连接核心义“详细说明”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "expand",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.91d456799fae1cf9",
+      "identityKey": "exploit|verb|use-resource",
+      "lexemeId": "lexeme.1aee4f5a323002eb",
+      "lemma": "exploit",
+      "partOfSpeech": "verb",
+      "senseKey": "use-resource",
+      "definitionZh": "利用",
+      "definitionEn": "to use a resource or opportunity effectively",
+      "examples": [
+        {
+          "id": "example.5a43229e3095dddb",
+          "text": "The algorithm exploits symmetry to reduce the search.",
+          "translation": "该算法利用对称性缩小搜索范围。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "exploit an opportunity"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "exploit · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.78890f4ea58a5223",
+          "type": "visual",
+          "text": "把“exploit：利用”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.94711b2c082da933",
+          "type": "morphology",
+          "text": "先确认词形 exploit，再连接核心义“利用”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "shrink",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.8ec482b83341b7f1",
+      "identityKey": "facilitate|verb|make-easier",
+      "lexemeId": "lexeme.ce3c1d491b8fe731",
+      "lemma": "facilitate",
+      "partOfSpeech": "verb",
+      "senseKey": "make-easier",
+      "definitionZh": "促进；使便利",
+      "definitionEn": "to make an action or process easier",
+      "examples": [
+        {
+          "id": "example.1a090b35f4e12b43",
+          "text": "A shared notation facilitates comparison between models.",
+          "translation": "统一的记号便于比较不同模型。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "facilitate communication"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "facilitate · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.6466d525bce3734b",
+          "type": "visual",
+          "text": "把“facilitate：促进；使便利”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.58a50d7b3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 facilitate，再连接核心义“促进；使便利”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "wobble",
+        "intensity": "standard",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.cb8d58f0febb8889",
+      "identityKey": "formulate|verb|express-systematically",
+      "lexemeId": "lexeme.88402260315e73d3",
+      "lemma": "formulate",
+      "partOfSpeech": "verb",
+      "senseKey": "express-systematically",
+      "definitionZh": "系统地表述；制定",
+      "definitionEn": "to develop or express something in a careful form",
+      "examples": [
+        {
+          "id": "example.ccaafd3de922cf8b",
+          "text": "We formulate the claim with explicit conditions.",
+          "translation": "我们在明确条件下表述该命题。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "formulate a theory"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "formulate · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.8e54802d48496853",
+          "type": "visual",
+          "text": "把“formulate：系统地表述；制定”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.b4174573affdf063",
+          "type": "morphology",
+          "text": "先确认词形 formulate，再连接核心义“系统地表述；制定”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "fragile",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.196f2fb156d70bbb",
+      "identityKey": "infer|verb|conclude-evidence",
+      "lexemeId": "lexeme.cb32b275fee44ec3",
+      "lemma": "infer",
+      "partOfSpeech": "verb",
+      "senseKey": "conclude-evidence",
+      "definitionZh": "推断",
+      "definitionEn": "to reach a conclusion from available evidence",
+      "examples": [
+        {
+          "id": "example.a8d92a368bc0f301",
+          "text": "We infer the route from the marks on the map.",
+          "translation": "我们根据地图上的标记推断路线。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "infer from evidence"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "infer · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.a454a03838e35e59",
+          "type": "visual",
+          "text": "把“infer：推断”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.6c724e9afebb8889",
+          "type": "morphology",
+          "text": "先确认词形 infer，再连接核心义“推断”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "bounce",
+        "intensity": "low",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.e7cbf06938e35e59",
+      "identityKey": "premise|noun|supporting-statement",
+      "lexemeId": "lexeme.d0cd0f66323002eb",
+      "lemma": "premise",
+      "partOfSpeech": "noun",
+      "senseKey": "supporting-statement",
+      "definitionZh": "前提",
+      "definitionEn": "a statement on which an argument or conclusion is based",
+      "examples": [
+        {
+          "id": "example.594a361ef37bfbfb",
+          "text": "If the premise fails, the conclusion needs a new proof.",
+          "translation": "若前提不成立，结论就需要新的证明。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "basic premise"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "premise · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.6851ffd6f4e12b43",
+          "type": "visual",
+          "text": "把“premise：前提”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.0bc6b8c448496853",
+          "type": "morphology",
+          "text": "先确认词形 premise，再连接核心义“前提”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "swift",
+        "intensity": "standard",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.6513822f9fae1cf9",
+      "identityKey": "reinforce|verb|strengthen",
+      "lexemeId": "lexeme.4c6cde7c315e73d3",
+      "lemma": "reinforce",
+      "partOfSpeech": "verb",
+      "senseKey": "strengthen",
+      "definitionZh": "加强；巩固",
+      "definitionEn": "to make an idea, structure, or behavior stronger",
+      "examples": [
+        {
+          "id": "example.23a627ac3095dddb",
+          "text": "A second example reinforces the distinction.",
+          "translation": "第二个例子强化了这一差别。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "reinforce an idea"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "reinforce · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.421d628ca58a5223",
+          "type": "visual",
+          "text": "把“reinforce：加强；巩固”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.76123d46082da933",
+          "type": "morphology",
+          "text": "先确认词形 reinforce，再连接核心义“加强；巩固”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "hesitate",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.ace33ee156d70bbb",
+      "identityKey": "retain|verb|continue-to-have",
+      "lexemeId": "lexeme.e1db38ea4b93c981",
+      "lemma": "retain",
+      "partOfSpeech": "verb",
+      "senseKey": "continue-to-have",
+      "definitionZh": "保留；保持",
+      "definitionEn": "to continue to have or keep something",
+      "examples": [
+        {
+          "id": "example.3ba207868bc0f301",
+          "text": "The update must retain every verified review record.",
+          "translation": "更新必须保留每一条已验证的复习记录。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "retain information"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "retain · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.eab3fc6438e35e59",
+          "type": "visual",
+          "text": "把“retain：保留；保持”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.8f5a9b0efebb8889",
+          "type": "morphology",
+          "text": "先确认词形 retain，再连接核心义“保留；保持”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "gloomy",
+        "intensity": "low",
+        "durationMs": 820,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.cf77b59f3341b7f1",
+      "identityKey": "shift|noun|change-direction",
+      "lexemeId": "lexeme.f3806641fee44ec3",
+      "lemma": "shift",
+      "partOfSpeech": "noun",
+      "senseKey": "change-direction",
+      "definitionZh": "转变",
+      "definitionEn": "a change in position, direction, or emphasis",
+      "examples": [
+        {
+          "id": "example.a5fc057cf4e12b43",
+          "text": "The data reveal a gradual shift in public preference.",
+          "translation": "数据揭示了公众偏好的逐渐转变。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "a shift in"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "shift · noun"
+      ],
+      "cues": [
+        {
+          "id": "cue.ee7ee818bce3734b",
+          "type": "visual",
+          "text": "把“shift：转变”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.52d12a7a3095dddb",
+          "type": "morphology",
+          "text": "先确认词形 shift，再连接核心义“转变”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "cling",
+        "intensity": "standard",
+        "durationMs": 520,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.dbbb40cb082da933",
+      "identityKey": "subject|adjective|conditional-upon",
+      "lexemeId": "lexeme.7904ec41323002eb",
+      "lemma": "subject",
+      "partOfSpeech": "adjective",
+      "senseKey": "conditional-upon",
+      "definitionZh": "取决于；受制于",
+      "definitionEn": "likely to be affected by or dependent on something",
+      "examples": [
+        {
+          "id": "example.ee79d080500f5fe9",
+          "text": "The estimate is subject to the sampling assumptions.",
+          "translation": "该估计受抽样假设制约。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "subject to change"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "subject · adjective"
+      ],
+      "cues": [
+        {
+          "id": "cue.037322668bc0f301",
+          "type": "visual",
+          "text": "把“subject：取决于；受制于”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.a0754ed4063118b1",
+          "type": "morphology",
+          "text": "先确认词形 subject，再连接核心义“取决于；受制于”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "reluctant",
+        "intensity": "low",
+        "durationMs": 620,
+        "iterationCount": 1
+      }
+    },
+    {
+      "id": "sense.1a68484eeac0f2a1",
+      "identityKey": "undermine|verb|weaken-gradually",
+      "lexemeId": "lexeme.2fc4d21c315e73d3",
+      "lemma": "undermine",
+      "partOfSpeech": "verb",
+      "senseKey": "weaken-gradually",
+      "definitionZh": "逐渐削弱",
+      "definitionEn": "to weaken something gradually or indirectly",
+      "examples": [
+        {
+          "id": "example.acaf425348496853",
+          "text": "Missing provenance would undermine trust in the dataset.",
+          "translation": "缺失来源信息会削弱人们对数据集的信任。",
+          "source": "original"
+        }
+      ],
+      "collocations": [
+        "undermine confidence"
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "confusables": [],
+      "morphology": [
+        "undermine · verb"
+      ],
+      "cues": [
+        {
+          "id": "cue.3342ca473095dddb",
+          "type": "visual",
+          "text": "把“undermine：逐渐削弱”放进一个清晰的小场景中。",
+          "verified": true
+        },
+        {
+          "id": "cue.09d51851404f5b6b",
+          "type": "morphology",
+          "text": "先确认词形 undermine，再连接核心义“逐渐削弱”。",
+          "verified": true
+        }
+      ],
+      "motion": {
+        "kind": "vanish",
+        "intensity": "low",
+        "durationMs": 720,
+        "iterationCount": 1
+      }
+    }
+  ],
+  "aliases": {}
+}
