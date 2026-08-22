@@ -61,7 +61,14 @@ describe('safe pack pipeline', () => {
 
   it('rejects path traversal and absolute paths', () => {
     expect(() => resolveInside('C:\\packs', '..\\secret.json')).toThrow('escapes');
+    expect(() => resolveInside('/packs', '../secret.json')).toThrow('escapes');
+    expect(() => resolveInside('/packs', 'nested\\..\\secret.json')).toThrow('escapes');
     expect(() => resolveInside('C:\\packs', 'C:\\secret.json')).toThrow('Absolute');
+    expect(() => resolveInside('/packs', '/secret.json')).toThrow('Absolute');
+    expect(() => resolveInside('/packs', '\\\\server\\share\\secret.json')).toThrow(
+      'Absolute',
+    );
+    expect(() => resolveInside('/packs', 'safe..name/entries.json')).not.toThrow();
   });
 
   it('rejects missing provenance and checksum mismatches', async () => {

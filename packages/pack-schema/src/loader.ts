@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
-import { dirname, isAbsolute, relative, resolve, sep } from 'node:path';
+import { dirname, posix, relative, resolve, sep, win32 } from 'node:path';
 import type { VocabularyPack } from '@vocabsprite/domain';
 import {
   catalogSchema,
@@ -18,11 +18,23 @@ export const contentChecksum = (senses: unknown): string =>
   `sha256:${createHash('sha256').update(canonicalJson(senses), 'utf8').digest('hex')}`;
 
 export function resolveInside(root: string, untrustedPath: string): string {
-  if (isAbsolute(untrustedPath))
+  if (posix.isAbsolute(untrustedPath) || win32.parse(untrustedPath).root.length > 0) {
     throw new Error(`Absolute paths are not allowed: ${untrustedPath}`);
-  const target = resolve(root, untrustedPath);
+  }
+
+  const portableSegments = untrustedPath.split(/[\\/]+/u);
+  if (portableSegments.includes('..')) {
+    throw new Error(`Path escapes pack root: ${untrustedPath}`);
+  }
+
+  const target = resolve(root, ...portableSegments);
   const relation = relative(resolve(root), target);
-  if (relation === '..' || relation.startsWith(`..${sep}`) || isAbsolute(relation)) {
+  if (
+    relation === '..' ||
+    relation.startsWith(`..${sep}`) ||
+    posix.isAbsolute(relation) ||
+    win32.isAbsolute(relation)
+  ) {
     throw new Error(`Path escapes pack root: ${untrustedPath}`);
   }
   return target;
